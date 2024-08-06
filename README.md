@@ -4,7 +4,8 @@ _Sou aluno da escola Letícia_
 
 _eu gosto de jogar videogame e de ver videos_
 
-![image](https://github.com/user-attachments/assets/04f604bc-6592-40dd-985f-8a2a25a55036)
+
+![image](https://github.com/user-attachments/assets/f08d11a1-d958-456d-a47d-c80d5746160a)
 
 
 
